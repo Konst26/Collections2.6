@@ -5,10 +5,7 @@ public class Main {
     private static final List<String> words = new ArrayList<>(List.of("abc", "abc", "bcd", "bcd", "e"));
 
     public static void main(String[] args) {
-    task1();
-    task2();
     task3();
-    task4();
     }
 
     public static void task1() {
